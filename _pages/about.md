@@ -38,6 +38,6 @@ latest_posts:
 
 Hi! I'm Tra /:cha/, a PhD candidate in Methodology and Statistics at Tilburg University. I develop methods for high-dimensional data, especially for combining biological and behavioral data measured on the same (usually small) group of people. During this current phase, we are focusing on using these novel methods to explore the determinants of Quality of Life for cancer survivors in the Netherlands.
 
-Born and raised in Hanoi, Vietnam. Now also a Dutchie :) I took up skiing and swimming in my late 20s, and I'm having a great time being enthusiastically mediocre at both. My cat Boba is my whole personality. If we meet at a conference, I will show you pictures 🐾
+Born and raised in Hanoi, Vietnam. Now also a Dutchie :) I took up skiing and swimming in my late 20s, and I'm having a great time being enthusiastically mediocre at both. But my absolute favorite activity is napping with my cat on the couch after a long day 🐾
 
 Contact me at [t.t.le_1@tilburguniversity.edu](mailto:t.t.le_1@tilburguniversity.edu)
