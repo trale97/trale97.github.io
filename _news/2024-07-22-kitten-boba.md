@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My partner and I adopted our first kitten, Boba :) He's 8 weeks old and extremely active. Sleep-deprived, but we are the happiest cat parents.
+My fiancé and I adopted our first kitten, Boba :) He's 8 weeks old and extremely active. Sleep-deprived, but we are the happiest cat parents.
