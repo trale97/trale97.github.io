@@ -11,20 +11,17 @@ profile:
 
 # Shown as a bullet list next to Education. Replace with your own.
 interests:
-  - Interest 1
-  - Interest 2
-  - Interest 3
+  - Bio-behavioral data integration
+  - High-dimensional data
 
 # Shown with a graduation-cap icon. Replace with your own; "year" is optional.
 education:
-  - degree: PhD in Methodology and Statistics (in progress)
+  - degree: MSc in Methodology and Statistics
     institution: Tilburg University
-  - degree: MSc Your Field
-    institution: Your University
-  - degree: BSc Your Field
-    institution: Your University
+  - degree: BA in Economics and Anthropology
+    institution: Utrecht University
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # set to true to list papers marked as "selected={true}"
 social: true # shows social icons under your photo
 
 announcements:
@@ -33,7 +30,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
