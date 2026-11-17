@@ -19,3 +19,9 @@ vendor
 # Python bytecode from bin/ helper scripts
 __pycache__/
 *.pyc
+
+# Local files that should not be published
+.Rhistory
+.Rproj.user/
+example.png
+CV Tra Le.pdf

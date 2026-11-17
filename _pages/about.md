@@ -18,7 +18,7 @@ interests:
 education:
   - degree: MSc in Methodology and Statistics
     institution: Tilburg University
-  - degree: BA in Economics and Anthropology
+  - degree: BA in Liberal Arts and Sciences (Economics and Anthropology)
     institution: Utrecht University
 
 selected_papers: false # set to true to list papers marked as "selected={true}"
