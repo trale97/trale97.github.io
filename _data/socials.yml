@@ -1,7 +1,7 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-email: t.t.le_1@tilburguniversity.edu # your email address
+# email: t.t.le_1@tilburguniversity.edu # uncomment to show an email icon under your photo
 github_username: trale97 # your GitHub user name
 linkedin_username: trale97 # your LinkedIn user name
 scholar_userid: IlkFlHYAAAAJ # your Google Scholar ID
