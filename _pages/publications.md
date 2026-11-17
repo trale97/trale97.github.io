@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 # Dark theme: dim co-authors/journal slightly and make my (bold) name bright white so it stands out
 _styles: >
-  html[data-theme="dark"] .post article li { color: #a9a9a9; }
+  html[data-theme="dark"] .post article li, html[data-theme="dark"] .post article li p, html[data-theme="dark"] .post article li em { color: #a9a9a9; }
   html[data-theme="dark"] .post article li strong { color: #ffffff; font-weight: 700; }
 ---
 
