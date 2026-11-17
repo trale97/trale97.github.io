@@ -5,7 +5,7 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 email: t.t.le_1@tilburguniversity.edu # your email address
 github_username: trale97 # your GitHub user name
 linkedin_username: trale97 # your LinkedIn user name
-# scholar_userid: # your Google Scholar ID (the "user=" value in your Scholar profile URL)
+scholar_userid: IlkFlHYAAAAJ # your Google Scholar ID
 rss_icon: true # comment this line to hide the RSS icon
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
